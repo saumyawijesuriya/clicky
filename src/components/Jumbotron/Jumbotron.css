@@ -1,0 +1,28 @@
+/*JUMBOTRON*/
+.jumbotron {
+	background-image: url("https://i.etsystatic.com/12259389/r/il/abb5de/1785244999/il_fullxfull.1785244999_2nbp.jpg");
+    /* background-blend-mode: lighten; */
+    background-repeat: no-repeat;
+	background-position: center;
+	-webkit-background-size: cover;
+	background-size: cover;
+	margin-bottom: 0px;
+    text-align: center;
+}
+
+.jumbotron h1 {
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	font-size: 65px;
+	text-transform: uppercase;
+	font-weight: 900;
+	color: rgb(58, 23, 212);
+	font-style: italic;
+}
+
+.jumbotron p {
+	font-family: 'Montserrat', sans-serif;
+	color: rgb(230, 16, 219);
+	font-size: 18px;
+	font-weight: 500;
+	text-transform: uppercase;
+}
